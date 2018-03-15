@@ -1,9 +1,9 @@
 {
   "noticeMessage": "
-  项目24小时后删除，感谢各位老铁的支持。
+  项目维护地址变更，有问题请提Issue至https://github.com/Phantom0day/91porn/issues
   ",
-  "noticeTime": "2018年2月5日",
+  "noticeTime": "2018/03/15",
    "noticeTitle": "公告",
-   "noticeer": "Adimn",
-   "versionCode": 5
+   "noticeer": "Phantom",
+   "versionCode": 6
  }
